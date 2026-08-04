@@ -179,7 +179,7 @@ export default function Home() {
               >
                 <div>$ echo "Thanks for visiting"</div>
                 <div className="text-terminal-accent/60">
-                  © {new Date().getFullYear()} {PORTFOLIO_DATA.name} • Built with React & Terminal Vibes
+                  © {new Date().getFullYear()} {PORTFOLIO_DATA.name} 
                 </div>
               </motion.div>
             </div>

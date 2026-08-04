@@ -37,9 +37,9 @@ export function AboutSection({ content }: AboutProps) {
       {/* Stats */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-6">
         {[
-          { label: 'Projects', value: '20+' },
-          { label: 'Years Exp.', value: '5+' },
-          { label: 'Clients', value: '30+' },
+          { label: 'Projects', value: '3' },
+          { label: 'Years Exp.', value: '2' },
+          { label: 'Clients', value: '3' },
           { label: 'Happy', value: '100%' },
         ].map((stat, index) => (
           <motion.div

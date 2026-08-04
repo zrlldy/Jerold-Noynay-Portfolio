@@ -27,8 +27,7 @@ export function HeroSection({ name, title, bio }: HeroProps) {
           transition={{ delay: 0.3, duration: 0.6 }}
           className="text-terminal-accent text-sm"
         >
-        Backend Developer at EEE Inc.
-Laravel, Livewire, Nest.js & TypeScript
+      $zrldy {'->'} hello, world! 👋
         </motion.div>
       </motion.div>
 

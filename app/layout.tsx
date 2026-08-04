@@ -10,7 +10,7 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: 'Zrldy - Portfolio',
-  description: 'Interactive terminal-style portfolio',
+  description: 'zrldy is a backend developer specializing in Laravel, Livewire, Nest.js, and TypeScript. Explore his portfolio to see his projects and skills.',
   generator: 'v0.app',
   icons: {
     icon: [
